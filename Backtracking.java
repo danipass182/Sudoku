@@ -1,4 +1,4 @@
-package poo.backtracking;
+package poo.progetto_sudoku;
 
 import java.util.Collection;
 import java.util.List;
