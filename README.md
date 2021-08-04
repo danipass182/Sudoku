@@ -6,4 +6,6 @@ This program displays 100 solutions, if any, for a pre-set Sudoku issue.
 - The Svuota command clears all boxes.
 - The Precedente and Successiva buttons allow you to change the solution.
 
+Put the three classes in the same package and run main in SudokuGUI. Solutions are found through the backtracking technique making use of the design pattern template method
+
 ![image](https://user-images.githubusercontent.com/80411845/128205279-cc986b7c-52a5-4788-bad0-73b522da9759.png)
